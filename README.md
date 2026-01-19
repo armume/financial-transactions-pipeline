@@ -80,5 +80,6 @@ The dashboard allows you to:
 - Explore transaction types
 - Identify customers with the highest activity
 - Filter information by date, transaction type, and customer
-
 Because Power BI is an interactive tool, the repository includes a static version of the dashboard in **png** format.
+
+finance-pipeline-project/4.dashboard/financial_dashboard.png
