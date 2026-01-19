@@ -73,13 +73,22 @@ Transactions with significantly high or low amounts were detected, which could r
 
 ## Dashboard
 The results of the analysis were visualized in an interactive dashboard built in **Power BI**.
-
 The dashboard allows you to:
-- Analyze transaction volume over time
-- Compare total and average amounts per month
-- Explore transaction types
-- Identify customers with the highest activity
-- Filter information by date, transaction type, and customer
-Because Power BI is an interactive tool, the repository includes a static version of the dashboard in **png** format.
+- Analyze transaction volume over time.
+- Compare total and average amounts per month.
+- Explore transaction types.
+- Identify customers with the highest activity.
+- Filter information by date, transaction type, and customer.<br>
 
-finance-pipeline-project/4.dashboard/financial_dashboard.png
+Because Power BI is an interactive tool, the repository includes a static version of the dashboard in **png** format.<br>
+<img src="finance-pipeline-project/4.dashboard/financial_dashboard.png" width="800"> <br>
+
+## Conclusions
+This project allowed us to apply an end-to-end approach to data analysis,from loading and validation in SQL Server to final visualization in Power BI.<br>
+During development, key skills were reinforced, such as:
+- Organizing a data project in phases.
+- Validating and cleaning financial data.
+- Using SQL for business-oriented analysis.
+- Integrating Python with databases.
+- Designing clear and structured dashboards.
+
